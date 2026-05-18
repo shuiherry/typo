@@ -12,14 +12,6 @@ export const defaultConfig: ThemeConfig = {
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
     socialLinks: [
-      {
-        name: 'github',
-        href: 'https://github.com/shuiherry',
-      },
-      {
-        name: 'bilibili',
-        href: 'https://space.bilibili.com/4138844?spm_id_from=333.1007.0.0',
-      },
     ],
     navLinks: [
       {
