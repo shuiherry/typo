@@ -2,7 +2,7 @@
 ---
 title: 羅生門
 pubDate: 1971-03-05
-categories: ['Articles']
+categories: ['随笔']
 description: ''
 slug: rashomon
 ---
