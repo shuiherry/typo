@@ -1,7 +1,7 @@
 
 ---
-title: 羅生門
-pubDate: 1971-03-05
+title: 首记
+pubDate: 2026-05-18
 categories: ['随笔']
 description: ''
 slug: rashomon
