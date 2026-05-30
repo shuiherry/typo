@@ -9,7 +9,7 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'To see I was born， to look is my call.',
     author: 'shuiherry',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    website: 'https://shuiherry.netlify.app/',
     pageSize: 5,
     socialLinks: [
     ],
